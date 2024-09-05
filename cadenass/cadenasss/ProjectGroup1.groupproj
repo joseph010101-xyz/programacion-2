@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{96B962C3-4456-4B3E-8D58-3CD016E0456D}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Cadena\Project1.cbproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\Matriz\PMatriz.cbproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Project1">
+        <MSBuild Projects="Cadena\Project1.cbproj"/>
+    </Target>
+    <Target Name="Project1:Clean">
+        <MSBuild Projects="Cadena\Project1.cbproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project1:Make">
+        <MSBuild Projects="Cadena\Project1.cbproj" Targets="Make"/>
+    </Target>
+    <Target Name="PMatriz">
+        <MSBuild Projects="..\..\Matriz\PMatriz.cbproj"/>
+    </Target>
+    <Target Name="PMatriz:Clean">
+        <MSBuild Projects="..\..\Matriz\PMatriz.cbproj" Targets="Clean"/>
+    </Target>
+    <Target Name="PMatriz:Make">
+        <MSBuild Projects="..\..\Matriz\PMatriz.cbproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Project1;PMatriz"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Project1:Clean;PMatriz:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Project1:Make;PMatriz:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

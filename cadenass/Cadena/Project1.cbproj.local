@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/12/08 08:03:04.000.278,=C:\Users\Elvis\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/12/08 08:03:04.000.198,=C:\Users\Elvis\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/07/24 09:10:12.000.807,=C:\Users\Elvis\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/07/24 09:10:13.000.195,=C:\Users\Elvis\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/07/24 09:10:18.000.365,=C:\Users\Elvis\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/07/24 09:11:04.000.553,C:\Users\Elvis\Documents\Embarcadero\Studio\Projects\Unit2.h=C:\Users\Elvis\Documents\Embarcadero\Studio\Projects\CCadena.h</Transaction>
+    <Transaction>2024/07/24 09:11:04.000.553,C:\Users\Elvis\Documents\Embarcadero\Studio\Projects\Unit2.cpp=C:\Users\Elvis\Documents\Embarcadero\Studio\Projects\CCadena.cpp</Transaction>
+    <Transaction>2024/07/24 10:40:06.000.827,C:\Users\Elvis\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Elvis\Documents\Embarcadero\Studio\Projects\Cadena\Unit1.dfm</Transaction>
+    <Transaction>2024/07/24 10:40:06.000.854,C:\Users\Elvis\Documents\Embarcadero\Studio\Projects\CCadena.h=C:\Users\Elvis\Documents\Embarcadero\Studio\Projects\Cadena\CCadena.h</Transaction>
+    <Transaction>2024/07/24 10:40:06.000.854,C:\Users\Elvis\Documents\Embarcadero\Studio\Projects\CCadena.cpp=C:\Users\Elvis\Documents\Embarcadero\Studio\Projects\Cadena\CCadena.cpp</Transaction>
+    <Transaction>2024/07/24 10:40:06.000.865,C:\Users\Elvis\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Elvis\Documents\Embarcadero\Studio\Projects\Cadena\Project1.cbproj</Transaction>
+    <Transaction>2024/07/24 10:40:06.000.827,C:\Users\Elvis\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Elvis\Documents\Embarcadero\Studio\Projects\Cadena\Unit1.cpp</Transaction>
+    <Transaction>2024/07/24 10:40:06.000.827,C:\Users\Elvis\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Elvis\Documents\Embarcadero\Studio\Projects\Cadena\Unit1.h</Transaction>
+    <Transaction>2024/07/24 10:40:06.000.811,C:\Users\Elvis\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Elvis\Documents\Embarcadero\Studio\Projects\Cadena\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>

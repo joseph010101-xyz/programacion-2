@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/26 22:53:54.000.485,=C:\Users\flore\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/04/26 22:53:54.000.570,=C:\Users\flore\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/04/26 22:54:35.000.022,C:\Users\flore\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.h=C:\Users\flore\OneDrive\Documentos\Embarcadero\Studio\Projects\UPrincipal.h</Transaction>
+    <Transaction>2024/04/26 22:54:35.000.022,C:\Users\flore\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\flore\OneDrive\Documentos\Embarcadero\Studio\Projects\UPrincipal.cpp</Transaction>
+    <Transaction>2024/04/26 22:54:35.000.022,C:\Users\flore\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\flore\OneDrive\Documentos\Embarcadero\Studio\Projects\UPrincipal.dfm</Transaction>
+    <Transaction>2024/04/26 22:55:17.000.633,=C:\Users\flore\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/04/26 22:55:45.000.193,C:\Users\flore\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.h=C:\Users\flore\OneDrive\Documentos\Embarcadero\Studio\Projects\UNatural.h</Transaction>
+    <Transaction>2024/04/26 22:55:45.000.193,C:\Users\flore\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\flore\OneDrive\Documentos\Embarcadero\Studio\Projects\UNatural.cpp</Transaction>
+    <Transaction>2024/04/26 23:42:25.000.644,C:\Users\flore\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\flore\OneDrive\Documentos\Embarcadero\Studio\Projects\PracticoDEprogram.cbproj</Transaction>
+    <Transaction>2024/04/26 23:42:25.000.625,C:\Users\flore\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\flore\OneDrive\Documentos\Embarcadero\Studio\Projects\PracticoDEprogramPCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
